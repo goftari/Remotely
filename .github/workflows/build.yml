@@ -29,7 +29,7 @@ on:
       rid:
         description: 'Server Runtime Identifier'     
         required: false
-        default: "linux-x64"
+        default: "win-x64"
 
 jobs:
 
